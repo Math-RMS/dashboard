@@ -2,6 +2,6 @@ Projeto proposto para a matéria de Desenvolvimento WEB, onde seria necessário 
 
 Integrantes do Projeto: 
 
-Matheus Ramos Adriano
-Gabriel Henrique de Sá
-Gabriel Henrique Eufrasio
+Matheus Ramos Adriano;
+Gabriel Henrique de Sá;
+Gabriel Henrique Eufrasio.
