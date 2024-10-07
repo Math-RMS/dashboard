@@ -1,8 +1,8 @@
-Projeto: Dashboard Admin com MERN Stack
+## Projeto: Dashboard Admin com MERN Stack ##
 
 Este projeto consiste na construção e implantação de um dashboard administrativo utilizando a stack MERN.
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas ##
 
 Frontend (client):
 
@@ -19,7 +19,7 @@ Backend (server):
     Mongoose: para modelagem de dados.
     MongoDB: como banco de dados.
 
-Modelagem de Dados
+## Modelagem de Dados ##
 
 O projeto inclui a criação de um Diagrama de Relacionamento de Entidades (ERD) para uma melhor organização dos dados, além da implementação dos modelos no Mongoose.
 
@@ -29,7 +29,7 @@ Funcionalidades:
     Relatórios e Estatísticas: gráficos e tabelas que exibem informações relevantes de forma visual e interativa.
     Interface Intuitiva: uma experiência de usuário aprimorada com componentes modernos e responsivos.
 
-Agregações no MongoDB
+## Agregações no MongoDB ##
 
 O projeto também demonstra como realizar chamadas de agregação no MongoDB, permitindo consultas complexas e a obtenção de dados agregados de maneira eficiente.
 
