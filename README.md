@@ -1,8 +1,10 @@
 Projeto: Dashboard Admin com MERN Stack
 
 Este projeto consiste na construção e implantação de um dashboard administrativo utilizando a stack MERN.
+
 Tecnologias Utilizadas
-Frontend
+
+Frontend:
 
     Material UI: para componentes de interface.
     Material UI Data Grid: para exibição de tabelas.
@@ -10,7 +12,7 @@ Frontend
     Redux Toolkit: para gerenciamento de estado.
     Redux Toolkit Query: para chamadas à API.
 
-Backend
+Backend:
 
     Node.js: para criar o servidor.
     Express.js: para gerenciar as rotas da API.
@@ -20,7 +22,8 @@ Backend
 Modelagem de Dados
 
 O projeto inclui a criação de um Diagrama de Relacionamento de Entidades (ERD) para uma melhor organização dos dados, além da implementação dos modelos no Mongoose.
-Funcionalidades
+
+Funcionalidades:
 
     Gerenciamento de Usuários: CRUD completo para usuários.
     Relatórios e Estatísticas: gráficos e tabelas que exibem informações relevantes de forma visual e interativa.
