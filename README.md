@@ -4,7 +4,7 @@ Este projeto consiste na construção e implantação de um dashboard administra
 
 Tecnologias Utilizadas
 
-Frontend(client):
+Frontend (client):
 
     Material UI: para componentes de interface.
     Material UI Data Grid: para exibição de tabelas.
@@ -12,7 +12,7 @@ Frontend(client):
     Redux Toolkit: para gerenciamento de estado.
     Redux Toolkit Query: para chamadas à API.
 
-Backend(server):
+Backend (server):
 
     Node.js: para criar o servidor.
     Express.js: para gerenciar as rotas da API.
